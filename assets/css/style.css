@@ -1,12 +1,27 @@
 body{
     background: lightgray;
 }
-nav{
+header{
     background: grey;
 }
-a{
+
+ul{
+    list-style: none;
+}
+
+nav a {
     color: lime;
 }
+
+a{
+    color: magenta;
+}
+
 span{
     color: magenta;
 }
+
+section a{
+    text-decoration: none;
+}
+
